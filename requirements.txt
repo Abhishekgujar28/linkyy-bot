@@ -1,0 +1,6 @@
+python-telegram-bot[standard]==20.7
+urllib3
+six
+APScheduler==3.10.4
+python-dotenv==1.0.0
+gunicorn==21.2.0 
